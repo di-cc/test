@@ -14,5 +14,6 @@ public class TestRedis {
                 // so something...
             }
         });
+        //just for test
     }
 }
