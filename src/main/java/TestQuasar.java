@@ -103,4 +103,5 @@ public class TestQuasar {
             long l = latency.longValue() / count;
             System.out.println("fiber took: " + t + ", latency: " + l + " ms");
         }
+        //Test Quasar
 }
